@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="46888aa0-d73c-40a2-bdc6-26b08403f4aa"
+    Name="eef44fd0-6be0-4c44-9ba3-a78a144edb78"
     Publisher="CN=ringo"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="46888aa0-d73c-40a2-bdc6-26b08403f4aa" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="eef44fd0-6be0-4c44-9ba3-a78a144edb78" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>xamarin_demo.UWP</DisplayName>

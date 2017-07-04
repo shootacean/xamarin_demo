@@ -5,7 +5,7 @@
     <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{72951E4F-202F-4F8C-96A3-4225B2505491}</ProjectGuid>
+    <ProjectGuid>{7D9D07BA-0E22-4DCF-B608-C0C013A25B47}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>xamarin_demo</RootNamespace>
