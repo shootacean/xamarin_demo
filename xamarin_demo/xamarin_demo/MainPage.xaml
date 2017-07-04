@@ -4,8 +4,15 @@
              xmlns:local="clr-namespace:xamarin_demo"
              x:Class="xamarin_demo.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+    <!--<Label Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+           HorizontalOptions="Center" />-->
+    <StackLayout>
+        <Button x:Name="BtnPost"></Button>
+        <Label x:Name="LblResponse"></Label>
+        <ListView x:Name="List">
+
+        </ListView>
+    </StackLayout>
 
 </ContentPage>
